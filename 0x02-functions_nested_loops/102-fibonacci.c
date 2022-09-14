@@ -5,10 +5,10 @@
   */
 int main(void)
 {
-	unsigned long count, i, j, k
+	unsigned long count, i, j, k;
 
-	int i = 0;
-	j = 1, k;
+	i = 0;
+	j = 1;
 	for (count = 0; count < 50; count++)
 	{
 		k = i + j;
