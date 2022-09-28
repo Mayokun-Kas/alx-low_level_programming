@@ -1,6 +1,6 @@
 /*i
  * 3-factorial.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Mayokun Kasumu
  */
 
 #include "main.h"
