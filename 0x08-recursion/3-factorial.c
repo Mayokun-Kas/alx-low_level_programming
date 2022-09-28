@@ -1,4 +1,4 @@
-/*i
+/*
  * 3-factorial.c
  * Auth: Mayokun Kasumu
  */
