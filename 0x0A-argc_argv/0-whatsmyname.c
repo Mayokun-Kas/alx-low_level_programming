@@ -1,8 +1,4 @@
-/*
- * File: 0-whatsmyname.c
- * Auth: Mayokun Kasumu
- */
-
+#include "main.h"
 #include <stdio.h>
 
 /**
