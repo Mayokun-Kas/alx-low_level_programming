@@ -137,7 +137,7 @@ void get_prod(char *prod, char *mult, int digit, int zeroes)
 }
 
 /**
- * add_nums  Adds the numbers stored in two strings.
+ * add_nums - Adds the numbers stored in two strings.
  * @final_prod: The buffer storing the running final product.
  * @next_prod: The next product to be added.
  * @next_len: The length of next_prod.
@@ -207,6 +207,7 @@ int main(int argc, char *argv[])
 		printf("0\n");
 		return (0);
 	}
+
 	size = find_len(argv[1]) + find_len(argv[2]);
 	final_prod = create_xarray(size + 1);
 	next_prod = create_xarray(size + 1);
